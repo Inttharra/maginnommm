@@ -1,0 +1,14 @@
+/* @font-face {
+    font-family: "Sukhumvit";
+    src: url(font/SukhumvitSet-Medium.ttf) format(truetype);
+    src: url(font/SukhumvitSet-Bold.ttf) format(truetype);
+    src: url(font/SukhumvitSet-Light.ttf) format(truetype);
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@200;300;400&display=swap');
+
+body {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-size: 16px;
+    background-color: #F5F5F5;
+}
